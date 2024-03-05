@@ -1,0 +1,5 @@
+pandas==2.1.1
+numpy==2.1.1
+xlrd == 2.0.1
+XlsxWriter == 2.0.0
+xlutils == 2.0.0
